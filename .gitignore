@@ -3,3 +3,8 @@ bin/
 obj/
 *.user
 *.suo
+
+__pycache__/
+.venv/
+venv/
+FruteriaAPI/datos.json
